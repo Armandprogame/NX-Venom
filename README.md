@@ -1,6 +1,6 @@
 # NX Venom
 
-Lasciate ogne speranza, voi ch’entrate
+Lasciate ogni speranza, voi ch’entrate
 
 ![Banner](banner.jpg)
 
